@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje trabalho como analista de desenvolvimento Júnior
-- 🌱 estudando Back-End & Front-end 
+- 🌱 Desenvolvedor Back-End & Front-end 
 - 📫 contate-me no email: kadudu23@gmail.com
 
 
